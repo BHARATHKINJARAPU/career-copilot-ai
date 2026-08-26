@@ -1,0 +1,7 @@
+@media (max-width: 992px) {
+  .mentor-container { grid-template-columns: 1fr; height: auto; }
+  .mentor-sidebar { display: none; }
+  .resume-layout, .code-practice-layout, .dash-main-grid, .about-grid { grid-template-columns: 1fr; }
+  .nav-links, .nav-auth { display: none; }
+  .hamburger { display: block; }
+}

@@ -1,0 +1,6 @@
+.auth-wrapper { min-height: calc(100vh - 180px); display: flex; align-items: center; justify-content: center; padding: 40px 24px; }
+.auth-card { width: 100%; max-width: 440px; padding: 35px; }
+.auth-header { text-align: center; margin-bottom: 25px; }
+.auth-header h2 { font-size: 1.7rem; font-weight: 700; margin-top: 8px; }
+.auth-footer { margin-top: 20px; text-align: center; font-size: 0.88rem; color: var(--text-muted); }
+.auth-footer a { color: var(--accent-blue); text-decoration: none; font-weight: 600; }

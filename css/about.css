@@ -1,0 +1,27 @@
+.about-hero {
+  padding: 80px 24px 40px;
+  text-align: center;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.about-grid {
+  max-width: 1280px;
+  margin: 40px auto;
+  padding: 0 24px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+}
+
+.problem-solution-card {
+  padding: 35px;
+}
+
+.problem-solution-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 16px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
